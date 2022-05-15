@@ -8,7 +8,8 @@ namespace cse210_02
 {
     class Program
     {
-
+        //This is the main function that shares the score.
+        //It also asks the user if they want to continue playing.
         static void Main(string[] args)
         {
 
