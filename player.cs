@@ -59,7 +59,7 @@ namespace cse210_02
             {
                 string input;
                 do{
-                    Console.WriteLine("Play again? [y/n] ");
+                    Console.WriteLine("Do you want to play again? [y/n] ");
                     input = Console.ReadLine();
                     if (input != "y" && input != "n")
                         Console.WriteLine("Sorry, that wasn't an option, Please try again.");
