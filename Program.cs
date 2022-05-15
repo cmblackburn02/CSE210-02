@@ -2,7 +2,7 @@
 
 
 //This is a game called HILO
-//Created by Cecilee Blackburn 
+//Created by Cecilee Blackburn
 
 namespace cse210_02
 {
